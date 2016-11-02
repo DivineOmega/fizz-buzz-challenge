@@ -4,7 +4,7 @@ Fizz Buzz is classic programming challenge. This repo aims to contain Fizz Buzz 
 
 ## Want to submit an implementation?
 
-1. Fork the repo.
+1. Fork [this repository](https://github.com/DivineOmega/fizz-buzz-challenge).
 2. Write your implementation. Be sure to name the file `language_method.ext`. For example, a basic Python implementation could be called `python_basic.py`.
 4. Submit a pull request!
 
