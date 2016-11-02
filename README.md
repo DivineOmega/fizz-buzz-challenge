@@ -12,7 +12,7 @@ Fizz Buzz is classic programming challenge. This repo aims to contain Fizz Buzz 
 
 Any Fizz Buzz implementation will be accepted, with the following restrictions.
 
-* Implementations must present (in any fashion) a delimited output of Fizz Buzz counting to 50.
+* Implementations must present (in any fashion) a delimited output of Fizz Buzz counting to 45 (the 3rd FizzBuzz).
 * Implementations must not be dangerous or negatively affect the privacy and/or security of people who compile and/or run them.
 
 ## Example output
